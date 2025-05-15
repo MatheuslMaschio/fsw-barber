@@ -1,7 +1,7 @@
 import React from "react"
 import { Card, CardContent } from "./ui/card"
-import { Badge } from "lucide-react"
 import { Avatar, AvatarImage } from "./ui/avatar"
+import { Badge } from "./ui/badge"
 
 //TODO: Receber agendamento como prop
 const Bookingitem = () => {
